@@ -1,2 +1,2 @@
-# find_angle_from_3_points
-A simply example to find angle from 3 points in Python
+# calculate_angle_from_3_points
+A simple example to calculate degree angle from 3 given cartesian points in Python
