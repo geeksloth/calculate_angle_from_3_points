@@ -3,7 +3,7 @@ A simple example to calculate degree angle from 3 given cartesian points in Pyth
 
 ![screenshot](static/theta.png)
 
-According to the above figure, the points are plotted in the result figure are organized as *Red, Green, and Blue* for *P1, P2, and P3* respectively.
+According to the above figure, the points plotted in the result figure are organized as *Red, Green, and Blue* for *P1, P2, and P3* respectively.
 
 The purposed function:
 ```python3
